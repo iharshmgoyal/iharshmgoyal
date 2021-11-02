@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iharshmgoyal, Harsh Goel from India
+- 👋 Hi, I’m @iharshmgoyal, Harsh Goyal from India
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning AI & ML
 - 💞️ I’m looking to collaborate on ML
